@@ -1,5 +1,10 @@
 # Changelog
 
+
+## 2026-11-16: Deploy on Railway button
+
+- README: added the Deploy on Railway button, linked to the published template `plausible-analytics`. No change to the services; applying this update rebuilds the same images.
+
 ## 2026-11-16: Plausible CE v3.2.1
 
 First release of the template.
